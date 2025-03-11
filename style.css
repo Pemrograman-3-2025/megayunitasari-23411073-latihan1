@@ -1,0 +1,36 @@
+.tombol-kembali {
+    border: 1 px dashed rgb(33, 207. 114);
+    color: rgb(212, 167, 167);
+    background-color: rgb(26, 26, 85);
+    border-radius: 5px;
+
+    /* margin */
+    /* margin: 10px 10px 20px 150px; */
+    margin-bottom: 20px;
+    margin-left: 10px;
+    padding: 4px 15px;
+}
+
+/* Ketika kursor ke tombol(hover)*/
+.tombol-kembali:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.my-table {
+    padding: 20px;
+    text-align: left;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.my-table th,td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+tr:hover {
+
+}
